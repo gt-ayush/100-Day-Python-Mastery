@@ -42,7 +42,7 @@ Choose one of these popular IDEs:
 3. Save the file and run it:  
    - **Terminal Method**:  
      ```bash  
-     python hello_world.py  # or python3 hello_world.py  
+     py hello_world.py  # or python3 hello_world.py  
      ```  
    - **IDE Method**: Use the "Run" button (▶️) in your editor.  
 
