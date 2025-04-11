@@ -15,6 +15,8 @@ This course is designed for **absolute beginners** and **aspiring developers** w
 - **Community Support**: Share code, get feedback, and collaborate via GitHub.  
 
 
+
+
 **100-Day Python Mastery Tree**  
 
 ### **Phase 1: Python Basics (Days 1–15)**  
