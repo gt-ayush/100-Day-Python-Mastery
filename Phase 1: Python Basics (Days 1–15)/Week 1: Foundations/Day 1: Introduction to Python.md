@@ -15,7 +15,7 @@ Fantastic! Let’s dive into **Day 1: Introduction to Python**. 🐍
 
 2. **Verify Installation**:  
    - Open your terminal (Command Prompt/PowerShell on Windows, Terminal on macOS/Linux).  
-   - Type `python --version` or `python3 --version`.  
+   - Type `py --version` or `python3 --version`.  
    - If it shows the installed version (e.g., `Python 3.12.0`), you’re good to go!  
 
 ---
